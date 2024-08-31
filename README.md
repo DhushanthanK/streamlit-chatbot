@@ -103,11 +103,6 @@ This project features a chatbot application built with Streamlit. It integrates 
 - Type your message in the input box and press Enter to start a conversation.
 - The chatbot will respond based on previous interactions, and the conversation history will be managed automatically.
 
-## License
-
-- **License Type:** MIT License
-- **Details:** See the [LICENSE](LICENSE) file for more information.
-
 ## Additional Information
 
 - **Free to Use:** The application and its code are freely available for use and modification under the MIT License.
