@@ -58,7 +58,7 @@ This project features a chatbot application built with Streamlit. It integrates 
 5. **Run the Streamlit app:**
 
     ```bash
-    streamlit run app.py
+    streamlit run chat.py
     ```
 
     This will start the Streamlit server, and you can access the chatbot application in your web browser at `http://localhost:8501`.
