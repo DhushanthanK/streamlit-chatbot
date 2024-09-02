@@ -13,6 +13,8 @@ This project features a chatbot application built with Streamlit. It integrates 
 - Conversation history management
 - Configurable LLM parameters for focused responses
 
+https://github.com/user-attachments/assets/10721e4d-01b5-4ddd-a6ea-3116c09c6470
+
 ## Technical Specifications
 
 ### Language Model
